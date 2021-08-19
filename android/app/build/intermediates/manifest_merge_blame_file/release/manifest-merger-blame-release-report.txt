@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mypuzzleapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:6:5-24:19
+14        android:name="com.mypuzzleapp.MainApplication"
+14-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:7:9-40
+15        android:allowBackup="false"
+15-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:8:9-36
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\SAHIL KOTHARI\.gradle\caches\transforms-3\2780a7d58323a095a84203f45c645c6e\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:11:9-54
+20        android:theme="@style/AppTheme" >
+20-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity
+21-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:13:9-23:20
+22            android:name="com.mypuzzleapp.MainActivity"
+22-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:14:13-41
+23            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+23-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:15:13-90
+24            android:label="@string/app_name"
+24-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:16:13-45
+25            android:launchMode="singleTask"
+25-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:17:13-44
+26            android:windowSoftInputMode="adjustResize" >
+26-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:18:13-55
+27            <intent-filter>
+27-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:19:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:20:17-69
+28-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:21:17-77
+30-->E:\Studies\ReactNative\Freelancer\PuzzleGame\MyPuzzleApp\android\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

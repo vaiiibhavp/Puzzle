@@ -1,4 +1,0 @@
-#Wed Aug 18 23:44:45 IST 2021
-base.0=E\:\\Studies\\ReactNative\\Freelancer\\PuzzleGame\\MyPuzzleApp\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

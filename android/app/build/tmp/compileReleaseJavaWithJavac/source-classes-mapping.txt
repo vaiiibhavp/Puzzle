@@ -1,9 +1,0 @@
-com/mypuzzleapp/MainApplication.java
- com.mypuzzleapp.MainApplication
- com.mypuzzleapp.MainApplication$1
-com/mypuzzleapp/MainActivity.java
- com.mypuzzleapp.MainActivity
-com/mypuzzleapp/BuildConfig.java
- com.mypuzzleapp.BuildConfig
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
